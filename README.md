@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="./github-profile-banner.png"
-       alt="Sudip Chatterjee — Agentic AI Consultant and AI Governance Expert"
-       width="100%" />
+  <img
+    src="./github-profile-banner.png"
+    alt="Sudip Chatterjee — Agentic AI Consultant and AI Governance Expert"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-System%20Design-0A66C2?style=for-the-badge" alt="Agentic AI System Design" />
-  <img src="https://img.shields.io/badge/AI%20Governance-Runtime%20Control-6D28D9?style=for-the-badge" alt="AI Governance" />
-  <img src="https://img.shields.io/badge/Enterprise%20RAG-Knowledge%20Systems-0077B5?style=for-the-badge" alt="Enterprise RAG" />
-  <img src="https://img.shields.io/badge/Multi--Agent-Orchestration-4F46E5?style=for-the-badge" alt="Multi-Agent Orchestration" />
-  <img src="https://img.shields.io/badge/Enterprise%20AI-Architecture-334155?style=for-the-badge" alt="Enterprise AI Architecture" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-Stateful%20Agents-111827?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/MCP-Tool%20Integration-7C3AED?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/Python-Production%20Systems-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-Enterprise%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Open--Weight%20Models-Sovereign%20AI-2563EB?style=flat-square" alt="Open-Weight Models" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-System%20Design-0A66C2?style=flat-square" alt="Agentic AI System Design" />
+  <img src="https://img.shields.io/badge/Enterprise%20RAG-Knowledge%20Systems-0077B5?style=flat-square" alt="Enterprise RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-Multi--Agent%20Orchestration-111827?style=flat-square" alt="LangGraph Multi-Agent Orchestration" />
+  <img src="https://img.shields.io/badge/MCP-Enterprise%20Integration-7C3AED?style=flat-square" alt="MCP Enterprise Integration" />
+  <img src="https://img.shields.io/badge/AI%20Governance-Runtime%20Control-6D28D9?style=flat-square" alt="AI Governance" />
 </p>
 
 <p align="center">
