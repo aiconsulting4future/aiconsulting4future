@@ -36,14 +36,21 @@ My work focuses on helping organizations move beyond experimental AI pilots towa
 
 ---
 
+---
+
 ## Verified Contribution
 
-### Vouch Protocol — Verified Design Contributor
+[![Verified Contributor Credential](https://img.shields.io/badge/Verified-Contributor%20Credential-0A66C2?style=for-the-badge&logo=github)](https://vouch-protocol.com/c/aiconsulting4future/375)
 
-Contributed a governance design insight for runtime authority validation:
+### Authority Freshness for Runtime Trust
 
-> Authority freshness should depend on both elapsed time and authority-state change, with validation thresholds determined by the consequence level of the proposed action.
+Contributed the governance design principle that authority freshness should depend on:
 
-- **Credential:** [View signed Verified Contributor credential](https://vouch-protocol.com/c/aiconsulting4future/375)
-- **Implementation:** Contribution incorporated through Vouch Protocol PR #375
-- **Focus:** Authority freshness, runtime trust, and consequence-aware governance
+- elapsed time;
+- changes in authority state;
+- the consequence level of the proposed action.
+
+The contribution was implemented through **Vouch Protocol PR #375** and recognized through a signed contributor credential.
+
+[View Signed Credential](https://vouch-protocol.com/c/aiconsulting4future/375) ·
+[View Pull Request #375](https://github.com/vouch-protocol/vouch/pull/375)
