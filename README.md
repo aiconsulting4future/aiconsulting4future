@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./github-profile-banner.png"
+       alt="Sudip Chatterjee — Agentic AI Consultant and AI Governance Expert"
+       width="100%" />
+</p>
+
 # Sudip Chatterjee
 
 ### Agentic AI Consultant | From Failed AI Pilots to Production-Grade Systems
