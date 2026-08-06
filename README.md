@@ -55,4 +55,18 @@ The contribution was implemented through **Vouch Protocol PR #375** and recogniz
 
 ---
 
+## Writing & Research
 
+I write about Agentic AI, enterprise AI architecture, runtime governance, open-weight models, and production-grade AI systems.
+
+### Selected Topics
+
+- AI action risk and pre-execution governance
+- Authority drift and runtime admissibility
+- Agentic AI control planes
+- Multi-agent path governance
+- Enterprise RAG and production AI architecture
+- Open-weight models and AI sovereignty
+
+[Read on LinkedIn](https://www.linkedin.com/in/sudip-consulting/) ·
+[Read on Medium](https://medium.com/@sc-blogs)
