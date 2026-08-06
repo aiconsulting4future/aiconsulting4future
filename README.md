@@ -29,29 +29,10 @@ The contribution was implemented through **Vouch Protocol PR #375** and recogniz
 
 ## Core Expertise
 
-### Agentic AI Architecture
-- Production-grade agent workflows
-- Multi-agent orchestration
-- LangGraph stateful systems
-- Tool calling and human-in-the-loop control
-
-### Enterprise RAG
-- Retrieval architecture and evaluation
-- Knowledge ingestion and reranking
-- Vector database design
-- Grounded responses and observability
-
-### MCP & Enterprise Integration
-- MCP servers and tool interfaces
-- API orchestration
-- Secure enterprise system access
-- Structured function-calling workflows
-
-### AI Governance
-- Runtime action admissibility
-- Capability and authority validation
-- Pre-execution control gates
-- Decision provenance and auditability
+| | |
+|---|---|
+| **🤖 Agentic AI Architecture**<br><br>Production-grade agent workflows<br>Multi-agent orchestration<br>LangGraph stateful systems<br>Human-in-the-loop control | **📚 Enterprise RAG**<br><br>Retrieval architecture and evaluation<br>Knowledge ingestion and reranking<br>Vector database design<br>Grounded responses and observability |
+| **🔌 MCP & Enterprise Integration**<br><br>MCP servers and tool interfaces<br>API orchestration<br>Secure enterprise system access<br>Structured function calling | **🛡️ AI Governance**<br><br>Runtime action admissibility<br>Capability and authority validation<br>Pre-execution control gates<br>Decision provenance and auditability |
 
 ---
 
