@@ -61,41 +61,35 @@ This helps prevent stale permissions from being treated as valid during high-imp
 
 ## Consulting & Technical Expertise
 
-### Agentic AI Architecture
+### Agentic AI & Enterprise Architecture
 
-Design of production-grade agent systems capable of reasoning, retrieving information, coordinating specialized agents, invoking tools, and operating under explicit control boundaries.
+Design of production-grade AI systems capable of reasoning, retrieving information, coordinating specialized agents, invoking tools, and operating under explicit control boundaries.
 
-**Focus areas:** LangGraph workflows, stateful orchestration, tool execution, human-in-the-loop controls, failure handling, and production readiness.
+**Focus areas:** LangGraph workflows, stateful orchestration, tool execution, human-in-the-loop controls, failure handling, scalability, reliability, security, observability, cost control, and production readiness.
 
 ### Enterprise RAG
 
 Architecture and optimization of retrieval systems for enterprise knowledge, including ingestion, chunking, embeddings, retrieval, reranking, grounded generation, evaluation, and observability.
 
-**Focus areas:** large-scale knowledge bases, retrieval quality, latency reduction, hallucination control, and reliable source grounding.
+**Focus areas:** large-scale knowledge bases, retrieval quality, latency reduction, hallucination control, reliable source grounding, and knowledge-system performance.
 
 ### MCP & Enterprise Integration
 
 Design of MCP servers and secure tool interfaces that connect AI agents with enterprise applications, APIs, databases, and operational systems.
 
-**Focus areas:** structured function calling, permission boundaries, API orchestration, tool contracts, and auditable system integration.
+**Focus areas:** structured function calling, permission boundaries, API orchestration, tool contracts, secure connectivity, and auditable system integration.
 
 ### AI Governance
 
 Design of runtime governance controls for consequential AI actions.
 
-**Focus areas:** capability validation, authority freshness, runtime admissibility, policy enforcement, pre-execution gates, escalation, provenance, and auditability.
+**Focus areas:** capability validation, authority freshness, runtime admissibility, policy enforcement, pre-execution gates, escalation, provenance, accountability, and auditability.
 
 ### Open-Weight Models & Domain Adaptation
 
 Evaluation and adaptation of open-weight LLMs and SLMs for enterprise and domain-specific use cases.
 
-**Focus areas:** model selection, fine-tuning, RLHF, synthetic data generation, evaluation, deployment trade-offs, and sovereign AI considerations.
-
-### Enterprise AI Architecture
-
-End-to-end architecture for moving AI systems from prototype to production.
-
-**Focus areas:** scalability, reliability, security, latency, observability, governance, cost control, and integration with existing enterprise systems.
+**Focus areas:** model selection, fine-tuning, RLHF, synthetic data generation, evaluation, deployment trade-offs, performance optimization, and sovereign AI considerations.
 
 ---
 
@@ -144,6 +138,8 @@ For consulting discussions, architecture reviews, or professional collaboration:
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <strong>Building AI systems that are not only intelligent, but reliable, governable, and ready for production.</strong>
