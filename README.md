@@ -10,15 +10,15 @@ My work focuses on helping organizations move beyond experimental AI pilots towa
 
 ## Verified Contribution
 
-[![Verified Contributor Credential](https://img.shields.io/badge/Verified-Contributor%20Credential-0A66C2?style=for-the-badge&logo=github)](https://vouch-protocol.com/c/aiconsulting4future/375)
+[![Verified Contributor Credential](https://img.shields.io/badge/Verified-Contributor%20Credential-0A66C2?style=for-the-badge&logo=shield)](https://vouch-protocol.com/c/aiconsulting4future/375)
 
 ### Authority Freshness for Runtime Trust
 
 Contributed the governance design principle that authority freshness should depend on:
 
-- elapsed time;
-- changes in authority state;
-- the consequence level of the proposed action.
+- elapsed time
+- changes in authority state
+- the consequence level of the proposed action
 
 The contribution was implemented through **Vouch Protocol PR #375** and recognized through a signed contributor credential.
 
