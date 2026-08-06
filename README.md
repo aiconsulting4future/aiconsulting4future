@@ -57,16 +57,15 @@ The contribution was implemented through **Vouch Protocol PR #375** and recogniz
 
 ## Writing & Research
 
-I write about Agentic AI, enterprise AI architecture, runtime governance, open-weight models, and production-grade AI systems.
+I write about Agentic AI, runtime governance, enterprise architecture, and production-grade autonomous systems.
 
-### Selected Topics
+### Featured Agentic AI Governance Series
 
-- AI action risk and pre-execution governance
-- Authority drift and runtime admissibility
-- Agentic AI control planes
-- Multi-agent path governance
-- Enterprise RAG and production AI architecture
-- Open-weight models and AI sovereignty
 
-[Read on LinkedIn](https://www.linkedin.com/in/sudip-consulting/) ·
-[Read on Medium](https://medium.com/@sc-blogs)
+- [The Most Dangerous AI Hallucination Isn’t an Answer. It’s an Action.](https://lnkd.in/p/d3WKXx78)
+- [A Perfectly Valid AI Action Can Still Be Unauthorized.](https://lnkd.in/p/dMcsAuPQ)
+- [The Agentic AI Control Plane.](https://lnkd.in/p/d2FcPw3w)
+- [A Multi-Agent System Can Produce the Correct Answer and Still Fail Governance.](https://lnkd.in/p/dE7jw_we)
+
+[More on LinkedIn](https://www.linkedin.com/in/sudip-consulting/) ·
+[More on Medium](https://medium.com/@sc-blogs)
