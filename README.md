@@ -31,7 +31,7 @@ I design and advise on production-grade Agentic AI systems that can reason, retr
 My work spans enterprise RAG, multi-agent orchestration, MCP-based integration, open-weight models, evaluation, and runtime AI governance—helping organizations move from fragile pilots to scalable, reliable, and governable systems.
 
 <p align="center">
-  <strong> Architecture· Orchestration · Integration · Governance · Production Readiness</strong>
+  <strong> Architecture · Orchestration · Integration · Governance · Production Readiness</strong>
 </p>
 
 ---
